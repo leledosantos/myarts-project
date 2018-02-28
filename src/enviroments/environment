@@ -1,0 +1,11 @@
+export const environment = {
+  production: false,
+  firebase: {
+    apiKey: "AIzaSyAYLfFuo--YJdT7lNLkh9Kfj3zXph6EfSU",
+    authDomain: "bootstrapproject-bf3eb.firebaseapp.com",
+    databaseURL: "https://bootstrapproject-bf3eb.firebaseio.com",
+    projectId: "bootstrapproject-bf3eb",
+    storageBucket: "bootstrapproject-bf3eb.appspot.com",
+    messagingSenderId: "887607095331"
+  }
+};
